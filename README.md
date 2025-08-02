@@ -61,12 +61,19 @@ All visualized in a well-styled, accessible layout with downloadable options for
 
 ## Requirements
 streamlit
+
 yfinance
+
 numpy
+
 pandas
+
 matplotlib
+
 scikit-learn
+
 tensorflow
+
 keras
 
 ## Disclaimer
@@ -74,7 +81,9 @@ This app is for educational and experimental purposes only. It is not a financia
 
 ## About Me
 Flora Ibrahimi
+
 Rising Computer Science senior | AI Instructor | Full-Stack Developer
+
 Focused on mastering machine learning, building purposeful tools, and building tech for good!
 
 ## Let’s Connect! 
