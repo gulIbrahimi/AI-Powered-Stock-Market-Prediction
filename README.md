@@ -1,14 +1,9 @@
-# An interactive machine learning application for forec## 📊 Visualizations
+# AI-powered Stock Market Prediction with Machine Learning
+
 An interactive machine learning application for forecasting stock prices using deep learning. Built with Streamlit, this project allows users to analyze historical price data, train an LSTM model directly, and visualize predictions in a clean, intuitive interface. The goal? Bring ML to finance in a way that’s both accessible and grounded in real data.
 
 ![Dashboard Preview](/assets/images/dashboard-preview.png)
 
---- Market Predictor 📈
-
-An interactive machine learning application for forecasting stock prices using deep learning. Built with Streamlit, this project allows users to analyze historical price data, train an LSTM model directly, and visualize predictions in a clean, intuitive interface. The goal? Bring ML to finance in a way that’s both accessible and grounded in real data.
-
-
-[Dashboard Preview]
 ---
 
 ## 🔍 What It Does
@@ -61,14 +56,6 @@ The model captures temporal patterns in the price history to learn how trends ev
 - Predicted vs. actual prices
 - Daily change metrics
 - Model performance (RMSE and a derived “accuracy” metric)
-
-All visualized in a well-styled, accessible layout with downloadable options for offline analysis.
----
-- Raw closing prices
-- 50-day and 100-day moving averages
-- Predicted vs. actual prices
-- Daily change metrics
-- Model performance (RMSE and a derived "accuracy" metric)
 
 ![Sample Prediction Graph](/assets/images/sample-prediction.png)
 ---
